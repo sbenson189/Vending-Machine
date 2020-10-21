@@ -1,0 +1,10 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  background-image: url("https://images8.alphacoders.com/985/thumb-1920-985376.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0;
+  padding: 0;
+}
+
